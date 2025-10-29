@@ -3,6 +3,7 @@
     "name": "Cidade Sensorial",
     "slug": "cidade-sensorial",
     "version": "1.0.0",
+    "sdkVersion": "50.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",

@@ -16,22 +16,26 @@ Cidade Sensorial é um sistema integrado de navegação inclusiva que guia pesso
 ## ✨ Funcionalidades Principais
 
 ### 🎨 Navegação Personalizada
+
 - **Deficiência Visual:** Navegação por voz e descrições detalhadas com vibração
 - **Deficiência Auditiva:** Alertas visuais e vibração para sinalizações importantes
 - **Mobilidade Reduzida:** Mapas com rotas adaptadas, evitando desníveis e obstáculos
 - **Deficiência Intelectual:** Interface simplificada com instruções claras e visuais
 
 ### 🗺️ Mapas de Acessibilidade
+
 - Rotas otimizadas baseadas no tipo de deficiência
 - Alertas em tempo real de obstáculos e pontos de interesse
 - Validação colaborativa do estado da infraestrutura urbana
 
 ### 🏷️ Balizas Inteligentes (Simuladas)
+
 - Dispositivos virtuais que fornecem contexto local
 - Comunicação via Bluetooth (simulado)
 - Dados de localização precisos em cruzamentos e semáforos
 
 ### 👥 Participação Cívica
+
 - Reportar obstáculos, calçadas quebradas, ausência de rampas
 - Validar informações de acessibilidade
 - Contribuir para melhorias urbanas baseadas em evidências
@@ -49,6 +53,7 @@ Cidade Sensorial é um sistema integrado de navegação inclusiva que guia pesso
 ## 📱 Instalação
 
 ### Pré-requisitos
+
 - Node.js (versão 18 ou superior)
 - npm ou yarn
 - Expo CLI (`npm install -g expo-cli`)
@@ -56,12 +61,14 @@ Cidade Sensorial é um sistema integrado de navegação inclusiva que guia pesso
 ### Passos
 
 1. Clone o repositório:
+
 ```bash
-git clone https://github.com/seu-usuario/cidade-sensorial.git
+git clone https://github.com/vfmjoao/cidade-sensorial.git
 cd cidade-sensorial
 ```
 
 2. Instale as dependências:
+
 ```bash
 npm install
 # ou
@@ -69,6 +76,7 @@ yarn install
 ```
 
 3. Inicie o servidor de desenvolvimento:
+
 ```bash
 npm start
 # ou
@@ -118,4 +126,3 @@ Criar um ambiente urbano que se adapta ativamente às necessidades individuais, 
 ---
 
 **Desenvolvido com ❤️ para um futuro mais acessível**
-
